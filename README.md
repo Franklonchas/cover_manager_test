@@ -1,4 +1,13 @@
-# cover-manager
+###Tecnologias usadas:
+
+- Vuejs
+- Bootstrap / Jquery
+- Depencia: vue-router
+- HTLM5, CSS3, Javascript
+
+Gestor de paquetes usado NPM
+
+# cover-manager-test APP
 
 ## Project setup
 ```
